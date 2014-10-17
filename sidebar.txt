@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kru:home|Door43 (kru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kru|d43-kru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kru/archive/master.zip|d43-kru.zip]]
+
+**Recent Changes**
+{{changes>ns = kru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kru|Ethnologue data]]
+
